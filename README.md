@@ -23,12 +23,3 @@ A clean, responsive personal portfolio landing page built with **HTML** and **CS
 - Update the "About Me" section to match your experience.
 - Connect the contact form using Formspree or another service.
 
-## 📬 Contact
-
-- **Email:** nabiha@example.com  
-- **LinkedIn:** [Nabiha Nasir](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)  
-- **Instagram:** [@nabihyy9845](https://www.instagram.com/nabihyy9845)
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
