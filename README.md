@@ -1,34 +1,34 @@
+# 🌟 Responsive Landing Page
 
+A clean, responsive personal portfolio landing page built with **HTML** and **CSS**. Ideal for showcasing your profile, skills, and contact information.
 
-## 🌐 Live Demo
+## 🚀 Features
 
-You can deploy it using [GitHub Pages](https://pages.github.com/) or platforms like **Netlify**, **Vercel**, or **Firebase Hosting**.
+- Mobile-friendly responsive design
+- Light/Dark mode toggle
+- About, Features, and Contact sections
+- Social media links
 
-## 🛠️ How to Use
+## 📂 How to Use
 
-1. Clone this repository or download the files.
-2. Replace the `img.jpg` with your own profile image.
-3. Customize the content: name, about section, social links, etc.
-4. Open `index.html` in your browser or deploy online.
+1. Download or clone this repository.
+2. Replace `img.jpg` with your own profile picture.
+3. Edit `index.html` to update your name, bio, social links, etc.
+4. Open `index.html` in your browser to preview.
+5. (Optional) Deploy using GitHub Pages, Netlify, or Vercel.
 
-## ✨ Customization Tips
+## ✨ Customization
 
-- Change color scheme in `style.css` under `:root` or theme classes.
-- Update your social links inside the `.home-sci` section.
-- Customize the contact form action to connect with Formspree or similar.
-
-
+- Modify colors and fonts in `style.css`.
+- Update the "About Me" section to match your experience.
+- Connect the contact form using Formspree or another service.
 
 ## 📬 Contact
 
-If you'd like to collaborate or have questions:
-**Email:** nabiha@example.com  
-**LinkedIn:** [linkedin.com/in/nabiha-nasir-4a06a2349](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)  
-**Instagram:** [@nabihyy9845](https://www.instagram.com/nabihyy9845)
+- **Email:** nabiha@example.com  
+- **LinkedIn:** [Nabiha Nasir](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)  
+- **Instagram:** [@nabihyy9845](https://www.instagram.com/nabihyy9845)
 
----
-
-### License
+## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
